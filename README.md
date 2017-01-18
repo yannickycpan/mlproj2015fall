@@ -1,5 +1,5 @@
 # mlproj2015fall
-The pdf file is the project report. 
+The pdf file is the machine learning class project report. 
 
 salespreprocessing.py is the data preprocessing file.
 
